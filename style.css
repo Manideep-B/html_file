@@ -1,0 +1,58 @@
+*{
+    text-align: center;
+}
+.head{
+    background-color: rgb(149, 236, 218);
+    text-decoration: underline;
+}
+h2{
+    background-color:lavender;
+    text-decoration: underline;
+    font-size: 24px;
+    text-align: center;
+}
+h3{
+    text-decoration: underline;
+}
+
+h4{
+    font-size: 20px;
+}
+
+p{
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellowgreen;
+}
+
+.first{
+    background-color: white;
+    width: 40%;
+    border: 3px solid;
+    padding: 50px;
+    margin: 78px;
+    border-radius: 10px;
+}
+.photo{
+    float: right;
+    width: 20%;
+    border: 3px solid;
+    padding: 9px;
+    margin: 92px;
+    border-radius: 33px;
+}
+
+.third{
+    background-color: white;
+    width: 90%;
+    border: 3px solid;
+    padding: 25px;
+    margin: 20px;
+    border-radius: 10px;
+}
